@@ -4,15 +4,35 @@
     
   }
   .body {
-    background-color: rgb(96, 96, 205);
+    background-color: #728ead;
   }
   .header {
       margin:auto;
       padding: 5px;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      background-color: rgb(98, 98, 107);
+      background-color: rgb(199, 199, 215);
       color: #171616;
   }
+  .header div {
+    padding-top: 10px;
+    margin-right: 25px;
+    float: right;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+  }
+
+  h1.border {
+    background-color:  #728ead;
+    padding: 10px;
+    border: 1px solid #728ead;
+    border-radius: 5px;
+}
+
+.header h1 {
+  display: inline-block;
+  font-size: 40px;
+}
 
 @media screen and (max-width:992px) {
     .work-section {
