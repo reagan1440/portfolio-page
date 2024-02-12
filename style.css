@@ -49,6 +49,26 @@ ul.float-right {
   float: left;
   margin: 0 auto;
 }
+.sub-section {
+  margin-top: 5px;
+  position: center;
+  width: auto;
+  height: 150px;
+  background-color: rgb(199, 199, 215);
+  padding: 25px;
+  border: 1px solid rgb(52, 87, 114);
+  border-radius: 5px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+ 
+}
+
+img {
+  width: 50%;
+  height: 200px;
+}
 
 @media screen and (max-width:992px) {
     .work-section {
