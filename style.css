@@ -118,6 +118,21 @@ img {
   height: 200px;
 }
 
+.box-section img {
+  width: 100%;
+  height: auto; 
+  max-width: 300px;
+  max-height: 200px; 
+}
+
+.sub-section img {
+  width: 100%; 
+  height: auto; 
+  max-width: 200px;
+  max-height: 200px; 
+}
+
+
 @media screen and (max-width:992px) {
     .work-section {
       width: 50%;
