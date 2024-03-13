@@ -12,7 +12,7 @@ inside you can find a picture of me and a short bio
 ## links
 
 ### deployed page
-https://reagan1440.github.io/code-refractor/
+https://reagan1440.github.io/portfolio-page/
 
 ## repository
 https://github.com/reagan1440/portfolio-page
